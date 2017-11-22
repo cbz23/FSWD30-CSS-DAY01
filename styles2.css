@@ -1,0 +1,42 @@
+
+
+/* img {
+
+	width: 50%;
+	visibility:  visible;
+}
+ *{
+
+	visibility: hidden;
+}
+
+*/
+
+div{
+
+	border: 2px solid blue;
+	margin: 5px; 
+
+}
+
+div#first p {
+	font-size: xx-largelarge;
+}
+/*
+
+div#third p {
+	visibility: hidden;
+
+}
+
+
+h1 {
+visibility: hidden
+}
+
+div.right * {
+	visibility: hidden
+
+
+}
+*/

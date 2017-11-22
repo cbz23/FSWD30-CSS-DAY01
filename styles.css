@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 img {
 
 	width: 50%;
@@ -33,3 +34,40 @@ div.right * {
 
 
 }
+=======
+img {
+
+	width: 50%;
+	visibility:  visible;
+}
+
+/* *{
+
+	visibility: hidden;
+}
+*/
+
+
+div{
+
+	border: 2px solid blue;
+	margin: 5px; 
+
+}
+
+div#third p {
+	visibility: hidden;
+
+}
+
+
+h1 {
+visibility: hidden
+}
+
+div.right * {
+	visibility: hidden
+
+
+}
+>>>>>>> 780b81d5c845b55b2ae844586087d060f8303068
